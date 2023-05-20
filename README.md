@@ -1,6 +1,6 @@
 <h1>Opa Eae! Sou o David Lima, Seja muito Bem Vindo(a).</h1> 
 
-<p>🔭 Bom, Atualmente <b>AINDA</b> não estou trabalhando como Programador. 
+<p>🔭 Bom, Atualmente <b>AINDA</b> não estou trabalhando com Programação. 
     No Exatado momento estou em uma frabrica de Produtos alimentícios onde auxilio na
     Produção do Gergelim e outros tipos de alimentos.</p> 
 
